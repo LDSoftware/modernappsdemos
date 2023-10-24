@@ -1,0 +1,12 @@
+/Volumes/HD710A/DevSamples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps/src/Monitoring/bin/Debug/net6.0/Monitoring.deps.json
+/Volumes/HD710A/DevSamples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps/src/Monitoring/bin/Debug/net6.0/Monitoring.dll
+/Volumes/HD710A/DevSamples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps/src/Monitoring/bin/Debug/net6.0/Monitoring.pdb
+/Volumes/HD710A/DevSamples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps/src/Monitoring/obj/Debug/net6.0/Monitoring.csproj.AssemblyReference.cache
+/Volumes/HD710A/DevSamples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps/src/Monitoring/obj/Debug/net6.0/Monitoring.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/HD710A/DevSamples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps/src/Monitoring/obj/Debug/net6.0/Monitoring.AssemblyInfoInputs.cache
+/Volumes/HD710A/DevSamples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps/src/Monitoring/obj/Debug/net6.0/Monitoring.AssemblyInfo.cs
+/Volumes/HD710A/DevSamples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps/src/Monitoring/obj/Debug/net6.0/Monitoring.csproj.CoreCompileInputs.cache
+/Volumes/HD710A/DevSamples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps/src/Monitoring/obj/Debug/net6.0/Monitoring.dll
+/Volumes/HD710A/DevSamples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps/src/Monitoring/obj/Debug/net6.0/refint/Monitoring.dll
+/Volumes/HD710A/DevSamples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps/src/Monitoring/obj/Debug/net6.0/Monitoring.pdb
+/Volumes/HD710A/DevSamples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps/src/Monitoring/obj/Debug/net6.0/ref/Monitoring.dll
